@@ -1,0 +1,3 @@
+class HomeScreenArguments {
+  const HomeScreenArguments();
+}
